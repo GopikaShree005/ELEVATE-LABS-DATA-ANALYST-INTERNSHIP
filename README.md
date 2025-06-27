@@ -7,3 +7,8 @@ Key tasks include handling missing values, removing duplicates, standardizing fo
 
 This project presents visual storytelling using sales data from a Superstore dataset. Key insights are illustrated through interactive charts created with Python and Plotly. The visuals highlight trends, category performance, and regional profitability.
 
+# ELEVATE LABS - Data Analytics Task 3
+
+This dashboard visualizes daily price trends of AMZN, BTC, DPZ, and NFLX using time-series analysis and KPIs.
+Key insights are made interactive with slicers and standardized using unpivoted data for clean comparison.
+
