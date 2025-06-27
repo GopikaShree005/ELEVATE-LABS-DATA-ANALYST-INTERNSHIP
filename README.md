@@ -12,3 +12,7 @@ This project presents visual storytelling using sales data from a Superstore dat
 This dashboard visualizes daily price trends of AMZN, BTC, DPZ, and NFLX using time-series analysis and KPIs.
 Key insights are made interactive with slicers and standardized using unpivoted data for clean comparison.
 
+# ELEVATE LABS - Data Analytics Task 4
+
+This project uses SQL to analyze customer data from the Olist dataset by applying filtering, grouping, joins, subqueries, and views.
+Queries were executed in SQLite with indexing applied to optimize performance.
