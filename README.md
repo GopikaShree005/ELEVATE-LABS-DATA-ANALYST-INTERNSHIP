@@ -16,3 +16,9 @@ Key insights are made interactive with slicers and standardized using unpivoted 
 
 This project uses SQL to analyze customer data from the Olist dataset by applying filtering, grouping, joins, subqueries, and views.
 Queries were executed in SQLite with indexing applied to optimize performance.
+
+# ELEVATE LABS - Data Analytics Task 5
+
+Performed Exploratory Data Analysis (EDA) on the Titanic dataset using Python, Pandas, Matplotlib, and Seaborn.
+Visualized feature relationships, identified survival trends, and built a logistic regression model achieving ~82% accuracy.
+Includes Jupyter Notebook and PDF report of findings.
