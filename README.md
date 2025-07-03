@@ -28,4 +28,9 @@ Includes Jupyter Notebook and PDF report of findings.
 Performed monthly revenue and order volume analysis using SQL aggregations on an online sales dataset.
 Grouped and visualized trends by extracting year/month from order dates using SQLite functions.
 
+# ELEVATE LABS - Data Analytics Task 7
+
+This project performs a basic sales summary using an SQLite database and Python.
+It queries total quantity and revenue per product, then visualizes the result with a bar chart using matplotlib.
+Tools used: sqlite3, pandas, matplotlib — runs easily on Google Colab or any local Python setup.
 
