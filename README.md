@@ -34,3 +34,8 @@ This project performs a basic sales summary using an SQLite database and Python.
 It queries total quantity and revenue per product, then visualizes the result with a bar chart using matplotlib.
 Tools used: sqlite3, pandas, matplotlib — runs easily on Google Colab or any local Python setup.
 
+# ELEVATE LABS - Data Analytics Task 8
+
+📊 Superstore Sales Dashboard
+An interactive Power BI dashboard visualizing sales performance by region, category, and time.
+Includes dynamic slicers, trend analysis, and key business insights for decision-making.
