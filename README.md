@@ -39,3 +39,32 @@ Tools used: sqlite3, pandas, matplotlib — runs easily on Google Colab or any l
 📊 Superstore Sales Dashboard
 An interactive Power BI dashboard visualizing sales performance by region, category, and time.
 Includes dynamic slicers, trend analysis, and key business insights for decision-making.
+
+# ELEVATE LABS - Data Analytics Project 1
+
+📊 Customer Lifetime Value Prediction
+This project predicts Customer Lifetime Value (LTV) using past purchase behavior to help businesses target high-value customers.
+
+🔧 Tools
+Python, Pandas, NumPy
+
+XGBoost, Scikit-learn
+
+Matplotlib, Seaborn
+
+🧪 Features Used
+Recency: Days since last purchase
+
+Frequency: Total purchases
+
+AOV: Avg order value
+
+📈 Output
+Predicted LTV values
+
+Customer segments: Low / Medium / High
+
+Saved as final_ltv_predictions.csv
+
+📌 Goal
+Enable smarter marketing by identifying valuable customers early.
