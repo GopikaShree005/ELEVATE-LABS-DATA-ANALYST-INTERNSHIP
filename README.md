@@ -68,3 +68,37 @@ Saved as final_ltv_predictions.csv
 
 📌 Goal
 Enable smarter marketing by identifying valuable customers early.
+
+# ELEVATE LABS - Data Analytics Project 2
+
+🎬 Movie Success Prediction and Sentiment Study
+This project aims to predict the box office success of movies and analyze viewer sentiment by genre using a dataset of 4,000 films.
+
+📁 Dataset Used
+movies_updated.csv
+Contains movie metadata including title, rating, genre, budget, gross revenue, IMDB score, votes, etc.
+
+🔧 Tools & Libraries
+Python (Pandas, NumPy)
+
+Scikit-learn (Regression)
+
+Matplotlib, Seaborn (Visualizations)
+
+NLTK VADER (Sentiment, simulated here)
+
+📈 Project Features
+Cleaned and processed movie data
+
+Generated synthetic sentiment scores
+
+Built a Linear Regression model to predict gross revenue
+
+Visualized average sentiment trends across movie genres
+
+📄 Output
+Regression metrics: R² score, RMSE
+
+Sentiment trend plot by genre
+
+Summary report in prediction_summary.txt
